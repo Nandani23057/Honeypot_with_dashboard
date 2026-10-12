@@ -1,1 +1,11 @@
+# Cowrie Honeypot Dashboard
+# Python dependencies
 
+# Web dashboard
+streamlit
+
+# Data processing and log analysis
+pandas
+
+# Interactive charts and visualizations
+plotly
